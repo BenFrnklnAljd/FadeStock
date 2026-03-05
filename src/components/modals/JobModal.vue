@@ -38,7 +38,7 @@
 
       <div class="fg">
         <label class="fl">Note (optional)</label>
-        <input class="fi" type="text" v-model="form.note" placeholder="e.g. with tip" />
+        <input class="fi" type="text" v-model="form.note" placeholder="e.g. with extra tip" />
       </div>
 
       <button class="submit-btn job" @click="submit">+ Save Job Entry</button>
